@@ -21,14 +21,15 @@ Detailed Installation Instructions:
 - [Wolph42's 'Drop-in' Bag of MT Tricks](https://forums.rptools.net/viewtopic.php?p=274499). Gives a large amount of customization but most importantly this is used to create Teleport Pads. To move from Map to Map from the Utility Map
 
 ##Simple 5e LMOP V1.0 Framework features:
-•	5e Lost Mines Of Phandelver Campaign Maps and Enemies all of which can Easily be used by DM through Macros. Including NPC all with fully playable Macro Sets  
-•	Bag Of Tricks Using Teleport Pads to move Tokens from Map to Map
-•	Configure Token lets you set a token's name/race/class, hit dice, attributes, proficiency, and AC/HP. This macro directly calls the 'Tweak Token' and 'Validate Token' macros to reduce redundancy and show how to use the macro roll option.
-•	Tweak Token lets you quickly adjust oft-changed attributes like AC, HP, Speed, and a few others.
-•	Validate Token helps reset defaults on tokens to make sure they work with the token macros.
-•	Create Action let you create either paired macros (for separated attack and damage rolls) or single actions on a wide button. These actions will be sorted and colour-coded by action type (Action/Bonus Action/Reaction).
-•	Custom Counters can track spells, ability use, ammo, and more. They work with the Create Action and Sheet macros to provide quick and easy tracking, a lot like manual counters when playing face to face. The system uses JSON, but is very automated and optional and can be ignored.
-•	NPC Damage, Healing, and Initiative macros which work on selected NPC tokens.
+- 5e Lost Mines Of Phandelver Campaign Maps and Enemies all of which can Easily be used by DM through Macros. Including NPC all with fully playable Macro Sets  
+
+-	Bag Of Tricks Using Teleport Pads to move Tokens from Map to Map
+- Configure Token lets you set a token's name/race/class, hit dice, attributes, proficiency, and AC/HP. This macro directly calls the 'Tweak Token' and 'Validate Token' macros to reduce redundancy and show how to use the macro roll option.
+-	Tweak Token lets you quickly adjust oft-changed attributes like AC, HP, Speed, and a few others.
+-	Validate Token helps reset defaults on tokens to make sure they work with the token macros.
+-	Create Action let you create either paired macros (for separated attack and damage rolls) or single actions on a wide button. These actions will be sorted and colour-coded by action type (Action/Bonus Action/Reaction).
+-	Custom Counters can track spells, ability use, ammo, and more. They work with the Create Action and Sheet macros to provide quick and easy tracking, a lot like manual counters when playing face to face. The system uses JSON, but is very automated and optional and can be ignored.
+-	NPC Damage, Healing, and Initiative macros which work on selected NPC tokens.
 
 
 
