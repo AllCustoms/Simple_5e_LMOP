@@ -17,13 +17,17 @@ Detailed Installation Instructions:
 ## Included Addons
 - [Bobifle's Drop-in 5e Monsters](https://github.com/bobifle/tokens). All the Basic Rules monsters and monsters given support for these tokens is built into the Simple5e campaign file.
 - [Merudo's 5e Spell Library](https://github.com/Merudo/spell-library/releases/latest). This addon requires MapTool 1.6.1+, and will give you instant access to nearly every 5e spell. It is HIGHLY recommended!
-- [Illydth's Spell States](https://github.com/Illydth/issSpellStates). Keep MUCH better track of spell effects and get a bunch of additional, well thought-out utility states and campaign macros. This addon requires MapTool 1.6.1+. Simple5e 2.2+ includes all the Campaign Token Properties and States needed so all you need are the tokens and tables. If you want your states to all follow the same aesthetic Illydth has both provided instructions and bundled versions of Simple5e with Spell States for you (and even ones with Bag of Tricks!).
 - [Wolph42's 'Drop-in' Bag of MT Tricks](https://forums.rptools.net/viewtopic.php?p=274499). Gives a large amount of customization but most importantly this is used to create Teleport Pads. To move from Map to Map from the Utility Map
 
-### Custom Counters
-If you are interested in the 'Custom Counters' functionality in this framework, this feature is generic enough for any game and has been made into a generic, drop-in library token version:
-
-- [Melek's Drop-in Custom Counters system](https://github.com/melek/CustomCounters)
+##Simple 5e LMOP V1.0 Framework features:
+•	5e Lost Mines Of Phandelver Campaign Maps and Enemies all of which can Easily be used by DM through Macros. Including NPC all with fully playable Macro Sets  
+•	Bag Of Tricks Using Teleport Pads to move Tokens from Map to Map
+•	Configure Token lets you set a token's name/race/class, hit dice, attributes, proficiency, and AC/HP. This macro directly calls the 'Tweak Token' and 'Validate Token' macros to reduce redundancy and show how to use the macro roll option.
+•	Tweak Token lets you quickly adjust oft-changed attributes like AC, HP, Speed, and a few others.
+•	Validate Token helps reset defaults on tokens to make sure they work with the token macros.
+•	Create Action let you create either paired macros (for separated attack and damage rolls) or single actions on a wide button. These actions will be sorted and colour-coded by action type (Action/Bonus Action/Reaction).
+•	Custom Counters can track spells, ability use, ammo, and more. They work with the Create Action and Sheet macros to provide quick and easy tracking, a lot like manual counters when playing face to face. The system uses JSON, but is very automated and optional and can be ignored.
+•	NPC Damage, Healing, and Initiative macros which work on selected NPC tokens.
 
 
 
