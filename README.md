@@ -5,11 +5,11 @@ Here is the Utility Map
 
 ## **Download Version 1** 
 This is a campaign file which can be opened in [MapTool](https://github.com/RPTools/maptool/releases/latest).
-- [Download Newest Version](https://github.com/melek/Simple5e/releases/latest)
+- [Download Newest Version](https://github.com/AllCustoms/Simple_5e_LMOP/releases/)
 
 Detailed Installation Instructions: 
 - Download and install MapTool 1.5.14 or greater: [MapTool Newest Releases](https://github.com/RPTools/maptool/releases/latest)
-- Download the campaign file above: [Simple5e Newest Release](https://github.com/melek/Simple5e/releases/latest)
+- Download the campaign file above: [Simple_5e_LMOP Newest Release](https://github.com/AllCustoms/Simple_5e_LMOP/releases/)
 - Open MapTool, and select `File -> Open Campaign...`
 - Choose the Simple 5e campaign file you downloaded in the file browser and click 'Open'
 - Some help should automatically load the first time you open the campaign to get you started.
