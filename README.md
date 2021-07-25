@@ -30,7 +30,7 @@ Detailed Installation Instructions:
 - Fully playable NPC all with Macro Sets  
 - AOE Macro that creates Spell Overlay's
 - Treasure Reminders tell you what players can find if they search in a room.
-- Working Sight Occlusion
+- Working Vision Occlusion
 - 
 ## Simple 5e V2.0 Framework features:
 - Configure Token lets you set a token's name/race/class, hit dice, attributes, proficiency, and AC/HP. This macro directly calls the 'Tweak Token' and 'Validate Token' macros to reduce redundancy and show how to use the macro roll option.
