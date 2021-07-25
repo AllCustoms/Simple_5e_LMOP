@@ -20,7 +20,7 @@ Detailed Installation Instructions:
 - [Merudo's 5e Spell Library](https://github.com/Merudo/spell-library/releases/latest). This addon requires MapTool 1.6.1+, and will give you instant access to nearly every 5e spell. It is HIGHLY recommended!
 - [Wolph42's 'Drop-in' Bag of MT Tricks](https://forums.rptools.net/viewtopic.php?p=274499). Gives a large amount of customization but most importantly this is used to create Teleport Pads. To move from Map to Map from the Utility Map
 
-##Simple 5e LMOP V1.0 Framework features:
+## Simple 5e LMOP V1.0 Framework features:
 - 5e Lost Mines Of Phandelver Campaign Maps and Enemies all of which can Easily be used by DM through Macros. Including NPC all with fully playable Macro Sets  
 
 -	Bag Of Tricks Using Teleport Pads to move Tokens from Map to Map
