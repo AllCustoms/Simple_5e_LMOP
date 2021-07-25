@@ -31,7 +31,7 @@ Detailed Installation Instructions:
 - AOE Macro that creates Spell Overlay's
 - Treasure Reminders tell you what players can find if they search in a room.
 - Working Vision Occlusion
-- 
+
 ## Simple 5e V2.0 Framework features:
 - Configure Token lets you set a token's name/race/class, hit dice, attributes, proficiency, and AC/HP. This macro directly calls the 'Tweak Token' and 'Validate Token' macros to reduce redundancy and show how to use the macro roll option.
 -	Tweak Token lets you quickly adjust oft-changed attributes like AC, HP, Speed, and a few others.
