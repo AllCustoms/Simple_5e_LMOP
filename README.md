@@ -40,8 +40,8 @@ Detailed Installation Instructions:
 -	Custom Counters can track spells, ability use, ammo, and more. They work with the Create Action and Sheet macros to provide quick and easy tracking, a lot like manual counters when playing face to face. The system uses JSON, but is very automated and optional and can be ignored.
 -	NPC Damage, Healing, and Initiative macros which work on selected NPC tokens.
 
-## Bugs, Feature Requests, and Support
-- Bugs and Feature Requests: Browse any existing issues and if you don't see your problem or suggestion, make a new one!
+## Bugs
+- Bugs: Browse any existing issues and if you don't see your problem, make a new one!
 
 
 
