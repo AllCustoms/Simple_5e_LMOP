@@ -1,0 +1,21 @@
+## [Unreleased]
+
+## [1.0.1] - 2021-08-26
+### Added
+- Added a changelog 
+- Added example characters from when I played this 
+- Versioning starting at 1.0.0 and continue until major update of 1.1.0 .
+- Links to latest released version in previous versions.
+
+### Changed
+- Start versioning based on the current English version at 1.0.0 from 1.0
+
+### Removed
+- Deleted useless library map that was causing issues.
+- Got rid of namegen that stopped working
+- Deleted Treasure Generator not useful in a premade campaign
+
+
+ 
+
+
