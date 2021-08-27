@@ -1,6 +1,6 @@
-## [Unreleased]
+## [Released]
 
-## [1.0.1] - 2021-08-26
+## [1.0.0] - 2021-08-26
 ### Added
 - Added a changelog 
 - Added example characters from when I played this 
@@ -8,12 +8,30 @@
 - Links to latest released version in previous versions.
 
 ### Changed
-- Start versioning based on the current English version at 1.0.0 from 1.0
+- Started versioning based on the current English version at 1.0.0 from 1.0
 
 ### Removed
 - Deleted useless library map that was causing issues.
 - Got rid of namegen that stopped working
 - Deleted Treasure Generator not useful in a premade campaign
+
+## [Released]
+
+## [1.0.1] - 2021-08-27
+### Added
+- Added Lib:Elevation (May be used in Future Updates)
+- Added Lib:SimpleDoors (Now Used in 
+- Added Lib:EventTokens
+- Added Simple Doors to all Doors
+- Added AOE Spell oVERLAYS
+
+### Changed
+- Fixed errors with being able to place tokens in walls using MBL 
+- Added Macro that allows changing rom VBL to MVBL 
+- Added Prison Bars efect 
+
+### Removed
+- Removed Bug that stopped Tokens from teleporting on Interpads
 
 
  
