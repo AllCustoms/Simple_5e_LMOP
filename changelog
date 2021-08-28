@@ -20,10 +20,10 @@
 ## [1.0.1] - 2021-08-27
 ### Added
 - Added Lib:Elevation (May be used in Future Updates)
-- Added Lib:SimpleDoors (Now Used in 
-- Added Lib:EventTokens
+- Added Lib:SimpleDoors (Now Used in all maps)
+- Added Lib:EventTokens (May be used in the future)
 - Added Simple Doors to all Doors
-- Added AOE Spell oVERLAYS
+- Added AOE Spell Overlays
 
 ### Changed
 - Fixed errors with being able to place tokens in walls using MBL 
