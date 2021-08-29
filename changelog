@@ -28,10 +28,27 @@
 ### Changed
 - Fixed errors with being able to place tokens in walls using MBL 
 - Added Macro that allows changing rom VBL to MVBL 
-- Added Prison Bars efect 
+- Added cool Prison Bars efect 
 
 ### Removed
 - Removed Bug that stopped Tokens from teleporting on Interpads
+
+## [Unreleased]
+
+## [1.0.2] - 2021-08-29
+### Added
+- Did elevation for Cragmaw Hideout (Goblin Den)
+- Placed Hidden Number POI's for easier Dming
+- Added Lib:TokenManager_v2.0 for quickly adding Properties 
+- Added states isAbove and isBelow also isElevationToken 
+- Added Some GM Utilities for Token and Player view teleportation if needed
+- Added GM Utilities for Handouts
+
+### Changed
+- Started versioning based on the current English version at 1.0.0 from 1.0
+
+### Removed
+- 
 
 
  
