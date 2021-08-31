@@ -37,7 +37,7 @@
 
 ## [1.0.2] - 2021-08-29
 ### Added
-- Did elevation for Cragmaw Hideout (Goblin Den)
+- Added elevation for Cragmaw Hideout (Goblin Den) This is the only map I found it useful to set up if you have any ideas just tell me.
 - Placed Hidden Number POI's for easier Dming
 - Added Lib:TokenManager_v2.0 for quickly adding Properties 
 - Added states isAbove and isBelow also isElevationToken 
@@ -45,7 +45,7 @@
 - Added GM Utilities for Handouts
 
 ### Changed
-- Started versioning based on the current English version at 1.0.0 from 1.0
+- 
 
 ### Removed
 - 
