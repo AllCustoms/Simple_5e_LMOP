@@ -27,7 +27,7 @@
 
 ### Changed
 - Fixed errors with being able to place tokens in walls using MBL 
-- Added Macro that allows changing rom VBL to MVBL 
+- Added Macro that allows changing all VBL to MVBL 
 - Added cool Prison Bars efect 
 
 ### Removed
@@ -39,7 +39,7 @@
 ### Added
 - Added elevation for Cragmaw Hideout (Goblin Den) This is the only map I found it useful to set up if you have any ideas just tell me.
 - Placed Hidden Number POI's for easier Dming
-- Added Lib:TokenManager_v2.0 for quickly adding Properties 
+- Added Lib:TokenManager_v2.0 for quickly adding Properties and Customization
 - Added states isAbove and isBelow also isElevationToken 
 - Added Some GM Utilities for Token and Player view teleportation if needed
 - Added GM Utilities for Handouts
