@@ -22,6 +22,7 @@ Detailed Installation Instructions:
 - [Wolph42 Drop-in Name Generator](https://forums.rptools.net/viewtopic.php?f=46&t=28949). Name Generator to quickly generate for npc names.
 - [Macro Library of DnD 5e racial traits/skills](https://forums.rptools.net/viewtopic.php?f=46&t=25554). Self explanatory
 - [Rod's 'Drop-In' Markdown Notebook](https://forums.rptools.net/viewtopic.php?f=46&t=28461). Notebook for DM and Player Notes
+- [Reverand's Enhanced Selected Tab](https://forums.rptools.net/viewtopic.php?f=46&t=29280) Perfect Character Sheet for all Macros in Selected Tab
 
 ## Simple 5e LMOP V1.0 Framework features:
 - 5e Lost Mines Of Phandelver Campaign Maps and Enemies all of which can Easily be used by DM through Macros. Including NPC all with fully playable Macro Sets  
