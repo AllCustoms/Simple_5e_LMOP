@@ -33,7 +33,7 @@
 ### Removed
 - Removed Bug that stopped Tokens from teleporting on Interpads
 
-## [Unreleased]
+## [Released]
 
 ## [1.0.2] - 2021-08-29
 ### Added
@@ -46,6 +46,21 @@
 
 ### Changed
 - 
+
+### Removed
+- 
+
+## [Unreleased]
+
+## [1.0.3] - 2021-10-20
+### Added
+- Added elevation for Wave Echo Cave
+- Added lib:selected by Reverand
+- Standardised lib:selected macros for Standard Token 
+- Changed all teleporter pads to Rick&Morty Portals because I thought It was cool
+
+### Changed
+- Changed Nezznar the Black Spider Token to work with Simple 5e
 
 ### Removed
 - 
