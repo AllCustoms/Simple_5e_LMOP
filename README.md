@@ -9,7 +9,7 @@ This is a campaign file which can be opened in [MapTool](https://github.com/RPTo
 - [Download Newest Version](https://github.com/AllCustoms/Simple_5e_LMOP/releases/)
 
 Detailed Installation Instructions: 
-- Download and install MapTool 1.5.14 or greater: [MapTool Newest Releases](https://github.com/RPTools/maptool/releases/latest)
+- Download and install MapTool 1.11.3 or greater: [MapTool Newest Releases](https://github.com/RPTools/maptool/releases/latest)
 - Download the campaign file above: [Simple_5e_LMOP Newest Release](https://github.com/AllCustoms/Simple_5e_LMOP/releases/)
 - Open MapTool, and select `File -> Open Campaign...`
 - Choose the Simple 5e campaign file you downloaded in the file browser and click 'Open'
