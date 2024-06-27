@@ -39,7 +39,9 @@ Player Connect to Server Instructions:
 - Choose the Direct Connect option.
 - Ensure they enter their name and password correctly.
 - Enter your IP address in the provided box along with the specified port.
-
+- Click OK and you will get connected to the server
+- Check if Teleport Pads work for Player by getting a token and dragging them over a pad if they don't hit Initialize Pads in your GM Window and try again.
+  
   ![Connect to server](https://github.com/AllCustoms/Pictures/assets/50879215/ade9476d-a359-463b-ba07-895e97c5fd0d)
 
 
