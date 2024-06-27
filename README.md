@@ -9,11 +9,20 @@ This is a campaign file which can be opened in [MapTool](https://github.com/RPTo
 - [Download Newest Version](https://github.com/AllCustoms/Simple_5e_LMOP/releases/)
 
 Detailed Installation Instructions: 
-- Download and install MapTool 1.11.3 or greater: [MapTool Newest Releases](https://github.com/RPTools/maptool/releases/latest)
+- Download and install MapTool 1.14.3 or greater: [MapTool Newest Releases](https://github.com/RPTools/maptool/releases/latest)
 - Download the campaign file above: [Simple_5e_LMOP Newest Release](https://github.com/AllCustoms/Simple_5e_LMOP/releases/)
 - Open MapTool, and select `File -> Open Campaign...`
 - Choose the Simple 5e campaign file you downloaded in the file browser and click 'Open'
 - Some help should automatically load the first time you open the campaign to get you started.
+
+Starting Campaign File Server Instructions: 
+- After following the Installation Process and having organised your session you need to start a server
+- Before loading the Campaign File the GM must start the server so select `File -> Start Server...`
+- A Window will open up and the first time starting the server you will have to follow these instructions
+- First choose a Username and write in the Box then in the Port box write 51234 choose a Password for both GM and Player send your players there corresponding password
+- Then in the Options click the boxes next to the Following options Player can reveal Vision, Auto Reveal on Movement,  Use Individual Views, Use Individual Fows and Players Receive Campaign Macros
+- ![Settings Server](https://raw.githubusercontent.com/AllCustoms/Simple_5e_LMOP/main/Server%20Start%20Settings.JPG)
+- Finally Give your Friends the Password 
 
 ## Included Addons
 - [Bobifle's Drop-in 5e Monsters](https://github.com/bobifle/tokens). All the Basic Rules monsters and monsters given support for these tokens is built into the Simple5e campaign file.
