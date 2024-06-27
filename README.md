@@ -28,6 +28,7 @@ Starting Campaign File Server Instructions:
     Use Individual Views
     Use Individual FOWs
     Players Receive Campaign Macros
+  
   ![Settings Server](https://raw.githubusercontent.com/AllCustoms/Simple_5e_LMOP/main/Server%20Start%20Settings.JPG)
 - Give your Friends the Password that corresponds to them and your IP Adress 
 - Go to the menu and select File -> Connect to Server....
