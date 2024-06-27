@@ -28,6 +28,7 @@ GM Start Server Instructions:
     - Use Individual Views
     - Use Individual FOWs
     - Players Receive Campaign Macros
+  
   ![Settings Server](https://raw.githubusercontent.com/AllCustoms/Simple_5e_LMOP/main/Server%20Start%20Settings.JPG)
 
 Player Connect to Server Instructions
