@@ -28,6 +28,8 @@ GM Start Server Instructions:
     - Use Individual Views
     - Use Individual FOWs
     - Players Receive Campaign Macros
+- Hit Ok and then you have to select File -> Open Campaign...
+- Check Teleport Pads work for GM by getting a token and dragging them over a pad if they don't hit Initialize Pads in your GM Window
   
   ![Settings Server](https://raw.githubusercontent.com/AllCustoms/Simple_5e_LMOP/main/Server%20Start%20Settings.JPG)
 
@@ -37,7 +39,9 @@ Player Connect to Server Instructions:
 - Choose the Direct Connect option.
 - Ensure they enter their name and password correctly.
 - Enter your IP address in the provided box along with the specified port.
+- 
   ![Settings Server](https://raw.githubusercontent.com/AllCustoms/Simple_5e_LMOP/main/Connect%20to%20server.JPG)
+
 
 ## Included Addons
 - [Bobifle's Drop-in 5e Monsters](https://github.com/bobifle/tokens). All the Basic Rules monsters and monsters given support for these tokens is built into the Simple5e campaign file.
