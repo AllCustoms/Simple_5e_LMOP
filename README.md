@@ -23,11 +23,11 @@ Starting Campaign File Server Instructions:
 - In the Port box, enter 51234.
 - Choose a Password for both GM and Player, and send your players their respective passwords.
 - In the Options menu, select the following:
-    Players can reveal Vision
-    Auto Reveal on Movement
-    Use Individual Views
-    Use Individual FOWs
-    Players Receive Campaign Macros
+    - Players can reveal Vision
+    - Auto Reveal on Movement
+    - Use Individual Views
+    - Use Individual FOWs
+    - Players Receive Campaign Macros
   
   ![Settings Server](https://raw.githubusercontent.com/AllCustoms/Simple_5e_LMOP/main/Server%20Start%20Settings.JPG)
 - Give your Friends the Password that corresponds to them and your IP Adress 
