@@ -31,7 +31,7 @@ GM Start Server Instructions:
 - Hit Ok and then you have to select File -> Open Campaign... and find the Simple 5E LMOP Campaign File
 - Check Teleport Pads work for GM by getting a token and dragging them over a pad if they don't hit Initialize Pads in your GM Window and try again.
   
-  ![Settings Server](https://raw.githubusercontent.com/AllCustoms/Simple_5e_LMOP/main/Server%20Start%20Settings.JPG)
+      ![Server Start Settings](https://github.com/AllCustoms/Pictures/assets/50879215/c44726ad-207d-49c5-99a3-24a0011d3b88)
 
 Player Connect to Server Instructions:
 - Give your Friends the Password that corresponds to them and your IP Address 
@@ -40,7 +40,7 @@ Player Connect to Server Instructions:
 - Ensure they enter their name and password correctly.
 - Enter your IP address in the provided box along with the specified port.
 - 
-  ![Settings Server](https://raw.githubusercontent.com/AllCustoms/Simple_5e_LMOP/main/Connect%20to%20server.JPG)
+    ![Connect to server](https://github.com/AllCustoms/Pictures/assets/50879215/ade9476d-a359-463b-ba07-895e97c5fd0d)
 
 
 ## Included Addons
