@@ -15,7 +15,7 @@ Detailed Installation Instructions:
 - Choose the Simple 5e campaign file you downloaded in the file browser and click 'Open'
 - Some help should automatically load the first time you open the campaign to get you started.
 
-Starting Campaign File Server Instructions: 
+GM Start Server Instructions: 
 - After following the Installation Process and having organised your session you need to start a server
 - Before loading the Campaign File the GM must start the server so select `File -> Start Server...`
 - A Window will open up and the first time starting the server you will have to follow these instructions
@@ -28,8 +28,9 @@ Starting Campaign File Server Instructions:
     - Use Individual Views
     - Use Individual FOWs
     - Players Receive Campaign Macros
-  
   ![Settings Server](https://raw.githubusercontent.com/AllCustoms/Simple_5e_LMOP/main/Server%20Start%20Settings.JPG)
+
+Player Connect to Server Instructions
 - Give your Friends the Password that corresponds to them and your IP Address 
 - Go to the menu and select File -> Connect to Server....
 - Choose the Direct Connect option.
