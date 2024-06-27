@@ -19,10 +19,22 @@ Starting Campaign File Server Instructions:
 - After following the Installation Process and having organised your session you need to start a server
 - Before loading the Campaign File the GM must start the server so select `File -> Start Server...`
 - A Window will open up and the first time starting the server you will have to follow these instructions
-- First choose a Username and write in the Box then in the Port box write 51234 choose a Password for both GM and Player send your players there corresponding password
-- Then in the Options click the boxes next to the Following options Player can reveal Vision, Auto Reveal on Movement,  Use Individual Views, Use Individual Fows and Players Receive Campaign Macros
-- ![Settings Server](https://raw.githubusercontent.com/AllCustoms/Simple_5e_LMOP/main/Server%20Start%20Settings.JPG)
-- Finally Give your Friends the Password 
+- First, choose a Username and enter it in the appropriate box.
+- In the Port box, enter 51234.
+- Choose a Password for both GM and Player, and send your players their respective passwords.
+- In the Options menu, select the following:
+    Players can reveal Vision
+    Auto Reveal on Movement
+    Use Individual Views
+    Use Individual FOWs
+    Players Receive Campaign Macros
+  ![Settings Server](https://raw.githubusercontent.com/AllCustoms/Simple_5e_LMOP/main/Server%20Start%20Settings.JPG)
+- Give your Friends the Password that corresponds to them and your IP Adress 
+- Go to the menu and select File -> Connect to Server....
+- Choose the Direct Connect option.
+- Ensure they enter their name and password correctly.
+- Enter your IP address in the provided box along with the specified port.
+  ![Settings Server](https://raw.githubusercontent.com/AllCustoms/Simple_5e_LMOP/main/Connect%20to%20server.JPG)
 
 ## Included Addons
 - [Bobifle's Drop-in 5e Monsters](https://github.com/bobifle/tokens). All the Basic Rules monsters and monsters given support for these tokens is built into the Simple5e campaign file.
