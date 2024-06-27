@@ -31,7 +31,7 @@ GM Start Server Instructions:
   
   ![Settings Server](https://raw.githubusercontent.com/AllCustoms/Simple_5e_LMOP/main/Server%20Start%20Settings.JPG)
 
-Player Connect to Server Instructions
+Player Connect to Server Instructions:
 - Give your Friends the Password that corresponds to them and your IP Address 
 - Go to the menu and select File -> Connect to Server....
 - Choose the Direct Connect option.
