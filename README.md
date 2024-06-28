@@ -56,7 +56,7 @@ Player Connect to Server Instructions:
 ## Simple 5e LMOP V1.0 Framework features:
 - 5e Lost Mines Of Phandelver Campaign Maps and Enemies all of which can Easily be used by DM through Macros. Including NPC all with fully playable Macro Sets  
 -	Bag Of Tricks Using Teleport Pads to move Tokens from Map to Map
-- Enemies appropriately placed on the Map all of which can easily be used by DM through Token Macros
+- Enemies appropriately placed on the Map all of which can easily be used by DM through Token Macros and GM Macros
 - Fully playable NPC all with Macro Sets  
 - AOE Macro that creates Spell Overlay's
 - Treasure Reminders tell you what players can find if they search in a room.
