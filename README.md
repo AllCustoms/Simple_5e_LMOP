@@ -29,7 +29,7 @@ GM Start Server Instructions:
     - Use Individual FOWs
     - Players Receive Campaign Macros
 - Hit Ok and then you have to select File -> Open Campaign... and find the Simple 5E LMOP Campaign File
-- Check Teleport Pads work for GM by getting a token and dragging them over a pad/
+- Check Teleport Pads work for GM by getting a token and dragging them over a pad.
 
   ![Server Start Settings](https://github.com/AllCustoms/Pictures/assets/50879215/c44726ad-207d-49c5-99a3-24a0011d3b88)
 
