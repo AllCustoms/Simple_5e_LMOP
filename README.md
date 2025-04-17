@@ -4,7 +4,7 @@ Starting out using Map tools as a DM, I needed a premade Campaign to get the han
 Here is a example of one of the decked out Maps
 ![Cragmaw Castle](https://github.com/user-attachments/assets/805e8087-965f-4c9f-ace1-f930cdd447c6)
 
-## **Download Version 1.0** 
+## **Download Latest of Version 1.0** 
 This is a campaign file which can be opened in [MapTool](https://github.com/RPTools/maptool/releases/latest).
 
 - [Download Newest Version](https://github.com/AllCustoms/Simple_5e_LMOP/releases/)
