@@ -1,7 +1,7 @@
 # **Welcome to AllCustoms's Simple 5e Lost Mines of Phandelver Campaign** 
-Starting out using Map tools as a DM, I needed a premade Campaign to get the hang of due to the complexity of creating your own campaign. So I thought that using this [BASE](https://forums.rptools.net/viewtopic.php?f=85&amp;t=25362) which includes a campaign and a built-in 5e framework would be smooth sailing but it was all but smooth sailing due to its complicated nature. So I thought that to create a simple easy to use campaign I would have to port it over to a Simpler Framework like Melek's Simple 5e Framework. 
+Starting out using Map tools as a DM, I needed a premade Campaign to get the hang of it due to the complexity of creating your own campaign. So I thought that using this [BASE](https://forums.rptools.net/viewtopic.php?f=85&amp;t=25362) which includes a campaign and a built-in 5e framework would be smooth sailing but it was all but smooth sailing due to its complicated nature. So I thought that to create a simple easy to use campaign I would have to port it over to a Simpler Framework like Melek's Simple 5e Framework. This however became a much bigger process than initially expected and became a multiple year project however it has been really fun. And new updates will come.
 
-Here is the Utility Map
+Here is a example of one of the decked out Maps
 ![Cragmaw Castle](https://github.com/user-attachments/assets/805e8087-965f-4c9f-ace1-f930cdd447c6)
 
 ## **Download Version 1.0** 
