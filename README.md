@@ -61,9 +61,10 @@ Player Connect to Server Instructions:
 - Fully playable NPC all with Macro Sets  
 - AOE Macro that creates Spell Overlay's
 - Treasure Reminders tell you what players can find if they search in a room.
-- Working Vision Occlusion
+- Working Vision Occlusion and Map Elevation where it is needed
 
-## Simple 5e V2.0 Framework features:
+This campaign file was built on to 
+## Simple 5e V2.0 Framework 
 - Configure Token lets you set a token's name/race/class, hit dice, attributes, proficiency, and AC/HP. This macro directly calls the 'Tweak Token' and 'Validate Token' macros to reduce redundancy and show how to use the macro roll option.
 -	Tweak Token lets you quickly adjust oft-changed attributes like AC, HP, Speed, and a few others.
 -	Validate Token helps reset defaults on tokens to make sure they work with the token macros.
