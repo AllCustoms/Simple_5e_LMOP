@@ -10,7 +10,7 @@ This is a campaign file which can be opened in [MapTool](https://github.com/RPTo
 - [Download Newest Version](https://github.com/AllCustoms/Simple_5e_LMOP/releases/)
 
 Detailed Installation Instructions: 
-- Download and install MapTool 1.14.3 or greater: [MapTool Newest Releases](https://github.com/RPTools/maptool/releases/latest)
+- Download and install MapTool 1.18.6 or greater: [MapTool Newest Releases](https://github.com/RPTools/maptool/releases/latest)
 - Download the campaign file above: [Simple_5e_LMOP Newest Release](https://github.com/AllCustoms/Simple_5e_LMOP/releases/)
 - Open MapTool, and select `File -> Open Campaign...`
 - Choose the Simple 5e campaign file you downloaded in the file browser and click 'Open'
@@ -50,11 +50,12 @@ Player Connect to Server Instructions:
 - [Bobifle's Drop-in 5e Monsters](https://github.com/bobifle/tokens). All the Basic Rules monsters and monsters given support for these tokens is built into the Simple5e campaign file.
 - [Merudo's 5e Spell Library](https://github.com/Merudo/spell-library/releases/latest). This addon requires MapTool 1.6.1+, and will give you instant access to nearly every 5e spell. It is very useful!
 - [Wolph42's 'Drop-in' Bag of MT Tricks](https://forums.rptools.net/viewtopic.php?p=274499). Gives a large amount of customization but most importantly this is used to create Teleport Pads. To move from Map to Map from the Utility Map
-- [Wolph42 Drop-in Name Generator](https://forums.rptools.net/viewtopic.php?f=46&t=28949). Name Generator to quickly generate for npc names.
+- Simple Doors by Melek
+- [Melek's Lib:Elevation]([https://github.com/melek/lib_elevation])
 - [Macro Library of DnD 5e racial traits/skills](https://forums.rptools.net/viewtopic.php?f=46&t=25554). Self explanatory
 - [Rod's 'Drop-In' Markdown Notebook](https://forums.rptools.net/viewtopic.php?f=46&t=28461). Notebook for DM and Player Notes
 
-## Simple 5e LMOP V1.0 Framework features:
+## Simple 5e LMOP V2.0 Framework features:
 - 5e Lost Mines Of Phandelver Campaign Maps and Enemies all of which can Easily be used by DM through Macros. Including NPC all with fully playable Macro Sets  
 -	Bag Of Tricks Using Teleport Pads to move Tokens from Map to Map
 - Enemies appropriately placed on the Map all of which can easily be used by DM through Token Macros and GM Macros
@@ -62,6 +63,9 @@ Player Connect to Server Instructions:
 - AOE Macro that creates Spell Overlay's
 - Treasure Reminders tell you what players can find if they search in a room.
 - Working Vision Occlusion and Map Elevation where it is needed
+- Bag of Tricks Teleporters for within map travel
+- Simple Door's on every Map
+- Indoor and Outdoors Map for every key Area 
 
 This campaign file was built on to 
 ## Simple 5e V2.0 Framework 
