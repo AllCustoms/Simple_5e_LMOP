@@ -48,10 +48,15 @@ Player Connect to Server Instructions:
 
 ## Included Addons
 - [Bobifle's Drop-in 5e Monsters](https://github.com/bobifle/tokens). All the Basic Rules monsters and monsters given support for these tokens is built into the Simple5e campaign file.
+- [Jmr's Lib:MonsterMaker ](https://github.com/melek/lib_elevation)
 - [Merudo's 5e Spell Library](https://github.com/Merudo/spell-library/releases/latest). This addon requires MapTool 1.6.1+, and will give you instant access to nearly every 5e spell. It is very useful!
 - [Wolph42's 'Drop-in' Bag of MT Tricks](https://forums.rptools.net/viewtopic.php?p=274499). Gives a large amount of customization but most importantly this is used to create Teleport Pads. To move from Map to Map from the Utility Map
-- Simple Doors by Melek
-- [Melek's Lib:Elevation]([https://github.com/melek/lib_elevation])
+- Lib:Simple Doors by Melek
+- [Melek's Lib:Elevation](https://github.com/melek/lib_elevation)
+- Tucker71's Lib:Time of Day
+- Tucker71's Lib:BG Scroller
+- Tucker71's Lib:Notes
+- Reverand's Lib:Weather
 - [Macro Library of DnD 5e racial traits/skills](https://forums.rptools.net/viewtopic.php?f=46&t=25554). Self explanatory
 - [Rod's 'Drop-In' Markdown Notebook](https://forums.rptools.net/viewtopic.php?f=46&t=28461). Notebook for DM and Player Notes
 
