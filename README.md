@@ -57,6 +57,7 @@ Player Connect to Server Instructions:
 - Tucker71's Lib:BG Scroller
 - Tucker71's Lib:Notes
 - Reverand's Lib:Weather
+- [Jmr's Lib:Dice Overlay v4.5.0 ]([https://github.com/melek/lib_elevation](https://github.com/Jmr3366/Lib_DiceOverlay))
 - [Macro Library of DnD 5e racial traits/skills](https://forums.rptools.net/viewtopic.php?f=46&t=25554). Self explanatory
 - [Rod's 'Drop-In' Markdown Notebook](https://forums.rptools.net/viewtopic.php?f=46&t=28461). Notebook for DM and Player Notes
 
