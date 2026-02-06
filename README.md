@@ -62,8 +62,9 @@ Player Connect to Server Instructions:
 - [Rod's 'Drop-In' Markdown Notebook](https://forums.rptools.net/viewtopic.php?f=46&t=28461). Notebook for DM and Player Notes
 
 ## Simple 5e LMOP V2.0 Framework features:
-- 5e Lost Mines Of Phandelver Campaign Maps and Enemies all of which can Easily be used by DM through Macros. Including NPC all with fully playable Macro Sets  
--	Bag Of Tricks Using Teleport Pads to move Tokens from Map to Map
+- 5e Lost Mines Of Phandelver Campaign Maps and Enemies all of which can Easily be used by DM through Macros. Including NPC all with fully playable Macro Sets
+- Bag Of Tricks Using Teleport Pads to move Tokens from Map to Map
+- One outdoor Map of Phandalin can be travelled by tokens and when people want to enter a building a teleporter will take the players to the indoor version of that building 
 - Enemies appropriately placed on the Map all of which can easily be used by DM through Token Macros and GM Macros
 - Fully playable NPC all with Macro Sets  
 - AOE Macro that creates Spell Overlay's
